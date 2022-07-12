@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88206227173",
+    "project_id": "test-a27e4",
+    "storage_bucket": "test-a27e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88206227173:android:f493a33115562b24c4860c",
+        "android_client_info": {
+          "package_name": "com.example.hi.gamedapchuot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88206227173-qsgrqmktpbbe3li6tg1315mjluju49gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhMaik58ShNnt9RMNYbjb347XP3tJ397k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88206227173-qsgrqmktpbbe3li6tg1315mjluju49gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

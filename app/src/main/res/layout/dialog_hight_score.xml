@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#00000000"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@drawable/background_topscore" />
+
+    <ImageView
+        android:id="@+id/btn_close"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:elevation="20dp"
+        android:src="@android:drawable/btn_dialog" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_higtScore"
+        android:layout_width="385dp"
+        android:layout_height="409dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="175dp"
+        android:layout_marginRight="10dp"
+        android:elevation="2dp" />
+
+</RelativeLayout>
